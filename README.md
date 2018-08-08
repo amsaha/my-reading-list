@@ -1,7 +1,4 @@
-# Books
-My reading list
-
-## Recently Completed Books (post 2016)
+# Recently Completed Books (post 2016)
 
 - The Jeera Packer - *Prashant Yadav.*
 - Sapiens: A Brief History of Humankind - *Yuval Noah Harari.*
@@ -15,5 +12,5 @@ My reading list
 - Leadership BS: Fixing Workplaces and Careers One Truth at a Time - *Jeffrey Pfeffer.*
 - Stiff Upper Lip, Jeeves - *P.G. Wodehouse.*
 
-## Todo list
+# Todo list
 Check [issues](https://github.com/amsaha/Books/issues) in this repository.
