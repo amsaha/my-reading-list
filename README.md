@@ -16,4 +16,4 @@ My reading list
 - Stiff Upper Lip, Jeeves - *P.G. Wodehouse.*
 
 ## Todo list
-Check issues in this repository.
+Check [issues](https://github.com/amsaha/Books/issues) in this repository.
