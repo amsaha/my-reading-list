@@ -1,16 +1,16 @@
 # Recently Completed Books (post 2016)
 
-- The Jeera Packer - *Prashant Yadav.*
-- Sapiens: A Brief History of Humankind - *Yuval Noah Harari.*
-- The Burden of Democracy - *Pratap Bhanu Mehta.*
-- The Gene: An Intimate History - *Siddhartha Mukherjee.*
-- The Master Algorithm - *Pedro Domingos.*
-- Train to Pakistan - *Khushwant Singh.*
-- The Gita For Children - *Roopa Pai.*
-- The Gift of Failure - *Jessica Lahey.*
-- Weapons of Math Destruction - *Cathy O'Neil.*
-- Leadership BS: Fixing Workplaces and Careers One Truth at a Time - *Jeffrey Pfeffer.*
-- Stiff Upper Lip, Jeeves - *P.G. Wodehouse.*
+- [The Jeera Packer](https://github.com/amsaha/my-reading-list/issues/16) - *Prashant Yadav.*
+- [Sapiens: A Brief History of Humankind](https://github.com/amsaha/my-reading-list/issues/17) - *Yuval Noah Harari.*
+- [The Burden of Democracy](https://github.com/amsaha/my-reading-list/issues/18) - *Pratap Bhanu Mehta.*
+- [The Gene: An Intimate History](https://github.com/amsaha/my-reading-list/issues/19) - *Siddhartha Mukherjee.*
+- [The Master Algorithm](https://github.com/amsaha/my-reading-list/issues/20) - *Pedro Domingos.*
+- [Train to Pakistan](https://github.com/amsaha/my-reading-list/issues/21)- *Khushwant Singh.*
+- [The Gita For Children](https://github.com/amsaha/my-reading-list/issues/22) - *Roopa Pai.*
+- [The Gift of Failure](https://github.com/amsaha/my-reading-list/issues/23) - *Jessica Lahey.*
+- [Weapons of Math Destruction](https://github.com/amsaha/my-reading-list/issues/24) - *Cathy O'Neil.*
+- [Leadership BS](https://github.com/amsaha/my-reading-list/issues/25): Fixing Workplaces and Careers One Truth at a Time - *Jeffrey Pfeffer.*
+- [Stiff Upper Lip, Jeeves](https://github.com/amsaha/my-reading-list/issues/26) - *P.G. Wodehouse.*
 
-# Todo list
+# To-Read list
 Check [issues](https://github.com/amsaha/Books/issues) in this repository.
