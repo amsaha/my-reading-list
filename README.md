@@ -10,7 +10,7 @@
 - [The Gita For Children](https://github.com/amsaha/my-reading-list/issues/22) - *Roopa Pai.*
 - [The Gift of Failure](https://github.com/amsaha/my-reading-list/issues/23) - *Jessica Lahey.*
 - [Weapons of Math Destruction](https://github.com/amsaha/my-reading-list/issues/24) - *Cathy O'Neil.*
-- [Leadership BS](https://github.com/amsaha/my-reading-list/issues/25): Fixing Workplaces and Careers One Truth at a Time - *Jeffrey Pfeffer.*
+- [Leadership BS: Fixing Workplaces and Careers One Truth at a Time](https://github.com/amsaha/my-reading-list/issues/25) - *Jeffrey Pfeffer.*
 - [Stiff Upper Lip, Jeeves](https://github.com/amsaha/my-reading-list/issues/26) - *P.G. Wodehouse.*
 
 # To-Read list
