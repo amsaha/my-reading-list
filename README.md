@@ -1,5 +1,6 @@
 # Recently Completed Books (post 2016)
 
+- [The subtle art of not giving a f*uck](https://github.com/amsaha/my-reading-list/issues/27) - *Mark Manson.*
 - [Demonetization and Black Money](https://github.com/amsaha/my-reading-list/issues/11) - *C. Rammanohar Reddy.*
 - [The Jeera Packer](https://github.com/amsaha/my-reading-list/issues/16) - *Prashant Yadav.*
 - [Sapiens: A Brief History of Humankind](https://github.com/amsaha/my-reading-list/issues/17) - *Yuval Noah Harari.*
