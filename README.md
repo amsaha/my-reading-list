@@ -1,4 +1,6 @@
-# Recently Completed Books (post 2016)
+*You cannot open a book without learning something - Confucius*
+
+# Recently Read Books (post 2016)
 
 - [The subtle art of not giving a f*uck](https://github.com/amsaha/my-reading-list/issues/27) - *Mark Manson.*
 - [Demonetization and Black Money](https://github.com/amsaha/my-reading-list/issues/11) - *C. Rammanohar Reddy.*
