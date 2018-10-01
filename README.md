@@ -2,6 +2,7 @@
 
 # Recently Read Books (post 2016)
 
+## 2018 ##
 - [Deep thinking: where machine intelligence ends and human creativity begins](https://github.com/amsaha/my-reading-list/issues/12) - *Gary Kasparov.*
 - [The subtle art of not giving a f*uck](https://github.com/amsaha/my-reading-list/issues/27) - *Mark Manson.*
 - [Demonetization and Black Money](https://github.com/amsaha/my-reading-list/issues/11) - *C. Rammanohar Reddy.*
@@ -9,6 +10,8 @@
 - [Sapiens: A Brief History of Humankind](https://github.com/amsaha/my-reading-list/issues/17) - *Yuval Noah Harari.*
 - [The Burden of Democracy](https://github.com/amsaha/my-reading-list/issues/18) - *Pratap Bhanu Mehta.*
 - [The Gene: An Intimate History](https://github.com/amsaha/my-reading-list/issues/19) - *Siddhartha Mukherjee.*
+
+## 2017 ##
 - [The Master Algorithm](https://github.com/amsaha/my-reading-list/issues/20) - *Pedro Domingos.*
 - [Train to Pakistan](https://github.com/amsaha/my-reading-list/issues/21)- *Khushwant Singh.*
 - [The Gita For Children](https://github.com/amsaha/my-reading-list/issues/22) - *Roopa Pai.*
