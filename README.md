@@ -2,7 +2,7 @@
 
 # Recently Read Books (post 2016)
 
-- [Deep thinking: where machine intelligence ends and human creativity begins](https://github.com/amsaha/my-reading-list/issues/12) - *Gary Kasparo.*
+- [Deep thinking: where machine intelligence ends and human creativity begins](https://github.com/amsaha/my-reading-list/issues/12) - *Gary Kasparov.*
 - [The subtle art of not giving a f*uck](https://github.com/amsaha/my-reading-list/issues/27) - *Mark Manson.*
 - [Demonetization and Black Money](https://github.com/amsaha/my-reading-list/issues/11) - *C. Rammanohar Reddy.*
 - [The Jeera Packer](https://github.com/amsaha/my-reading-list/issues/16) - *Prashant Yadav.*
