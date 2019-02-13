@@ -4,7 +4,7 @@
 
 ## 2019 ##
 
-- [What is life](https://github.com/amsaha/my-reading-list/issues/9) - *Schrodinger*
+- [What is life](https://github.com/amsaha/my-reading-list/issues/9) - *Schrödinger*
 
 ## 2018 ##
 - [Deep thinking: where machine intelligence ends and human creativity begins](https://github.com/amsaha/my-reading-list/issues/12) - *Gary Kasparov.*
