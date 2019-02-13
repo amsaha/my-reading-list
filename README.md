@@ -1,5 +1,8 @@
 *You cannot open a book without learning something - Confucius*
 
+[Currently
+Reading](https://github.com/amsaha/my-reading-list/issues?q=is%3Aissue+is%3Aopen+label%3A%22%5B+CURRENTLY+READING+%5D%22)
+
 # Recently Read Books (post 2016)
 
 ## 2019 ##
