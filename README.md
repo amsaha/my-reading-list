@@ -2,6 +2,10 @@
 
 # Recently Read Books (post 2016)
 
+## 2019 ##
+
+- [What is life](https://github.com/amsaha/my-reading-list/issues/9) - *Schrodinger*
+
 ## 2018 ##
 - [Deep thinking: where machine intelligence ends and human creativity begins](https://github.com/amsaha/my-reading-list/issues/12) - *Gary Kasparov.*
 - [The subtle art of not giving a f*uck](https://github.com/amsaha/my-reading-list/issues/27) - *Mark Manson.*
