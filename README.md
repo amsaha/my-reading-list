@@ -7,6 +7,7 @@ Reading](https://github.com/amsaha/my-reading-list/issues?q=is%3Aissue+is%3Aopen
 
 ## 2019 ##
 
+- [What got you here, won't get you there](https://github.com/amsaha/my-reading-list/issues/32) - *Marshall Goldsmith*
 - [What is life](https://github.com/amsaha/my-reading-list/issues/9) - *Schrödinger*
 
 ## 2018 ##
