@@ -7,7 +7,7 @@ Reading](https://github.com/amsaha/my-reading-list/issues?q=is%3Aissue+is%3Aopen
 
 ## 2019 ##
 
-- [Ogilvy on advertising](https://github.com/amsaha/my-reading-list/issues/31) - *Ogilvy*
+- [Ogilvy on advertising](https://github.com/amsaha/my-reading-list/issues/31) - *David Ogilvy*
 - [Homo Deus: A brief history of tomorrow](https://github.com/amsaha/my-reading-list/issues/5) - *Yuval Noah Harari*
 - [What got you here, won't get you there](https://github.com/amsaha/my-reading-list/issues/32) - *Marshall Goldsmith*
 - [What is life](https://github.com/amsaha/my-reading-list/issues/9) - *Schrödinger*
