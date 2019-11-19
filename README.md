@@ -7,6 +7,7 @@ Reading](https://github.com/amsaha/my-reading-list/issues?q=is%3Aissue+is%3Aopen
 
 ## 2019 ##
 
+- [A Thousand Splendid Suns](https://github.com/amsaha/my-reading-list/issues/38) - *Khaled Hosseini*
 - [A Gentleman in Moscow](https://github.com/amsaha/my-reading-list/issues/36) - *Amor Towles*
 - [For the love of Physics](https://github.com/amsaha/my-reading-list/issues/6) - *Walter Lewin*
 - [Khooni Vaisakhi](https://github.com/amsaha/my-reading-list/issues/34) - *Nanak Singh* Translated by Navdeep Singh
