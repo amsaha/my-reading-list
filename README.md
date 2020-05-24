@@ -8,6 +8,8 @@ Reading](https://github.com/amsaha/my-reading-list/issues?q=is%3Aissue+is%3Aopen
 
 ## 2020 ##
 
+- [Deep Medicine](https://github.com/amsaha/my-reading-list/issues/35) - *Eric
+  Topol*
 
 ## 2019 ##
 - [Creativity Inc.](https://github.com/amsaha/my-reading-list/issues/37) - *Ed Catmull*
