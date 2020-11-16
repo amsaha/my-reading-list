@@ -8,10 +8,10 @@ Reading](https://github.com/amsaha/my-reading-list/issues?q=is%3Aissue+is%3Aopen
 
 ## 2020 ##
 
+- [The Jeeves Omnibus 4](https://github.com/amsaha/my-reading-list/issues/44) - *The Jeeves Omnibus 4  - P. G. Wodehouse*
 - [The Design of Everyday Things](https://github.com/amsaha/my-reading-list/issues/42) - *The Design of Everyday Things - Donald A. Norman*
 - [Deep Work: Rules for Focused Success in a Distracted World](https://github.com/amsaha/my-reading-list/issues/41) - *Cal Newport*
-- [Deep Medicine](https://github.com/amsaha/my-reading-list/issues/35) - *Eric
-  Topol*
+- [Deep Medicine](https://github.com/amsaha/my-reading-list/issues/35) - *Eric Topol*
 
 ## 2019 ##
 - [Creativity Inc.](https://github.com/amsaha/my-reading-list/issues/37) - *Ed Catmull*
