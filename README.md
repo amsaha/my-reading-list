@@ -6,10 +6,12 @@ Reading](https://github.com/amsaha/my-reading-list/issues?q=is%3Aissue+is%3Aopen
 # Recently Read Books (post 2016)
 
 
-## 2020 ##
+## 2021 ##
+- [The Emperor of all Maladies](https://github.com/amsaha/my-reading-list/issues/10) - *Siddhartha Mukherjee*
 
-- [The Jeeves Omnibus 4](https://github.com/amsaha/my-reading-list/issues/44) - *The Jeeves Omnibus 4  - P. G. Wodehouse*
-- [The Design of Everyday Things](https://github.com/amsaha/my-reading-list/issues/42) - *The Design of Everyday Things - Donald A. Norman*
+## 2020 ##
+- [The Jeeves Omnibus 4](https://github.com/amsaha/my-reading-list/issues/44) - *P. G. Wodehouse*
+- [The Design of Everyday Things](https://github.com/amsaha/my-reading-list/issues/42) - *Donald A. Norman*
 - [Deep Work: Rules for Focused Success in a Distracted World](https://github.com/amsaha/my-reading-list/issues/41) - *Cal Newport*
 - [Deep Medicine](https://github.com/amsaha/my-reading-list/issues/35) - *Eric Topol*
 
