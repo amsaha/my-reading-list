@@ -7,6 +7,7 @@ Reading](https://github.com/amsaha/my-reading-list/issues?q=is%3Aissue+is%3Aopen
 
 
 ## 2021 ##
+- [Akhada - The Authorized Biography of Mahavir Singh Phogat](https://github.com/amsaha/my-reading-list/issues/46) - *Saurabh Duggal*
 - [The Emperor of all Maladies](https://github.com/amsaha/my-reading-list/issues/10) - *Siddhartha Mukherjee*
 
 ## 2020 ##
