@@ -7,6 +7,7 @@ Reading](https://github.com/amsaha/my-reading-list/issues?q=is%3Aissue+is%3Aopen
 
 
 ## 2021 ##
+- [Moonwalking with Einstein](https://github.com/amsaha/my-reading-list/issues/43) - *Joshua Foer*
 - [The Blind Watchmaker](https://github.com/amsaha/my-reading-list/issues/7) - *Richard Dawkins*
 - [Being Mortal](https://github.com/amsaha/my-reading-list/issues/45) - *Atul Gawande*
 - [Akhada - The Authorized Biography of Mahavir Singh Phogat](https://github.com/amsaha/my-reading-list/issues/46) - *Saurabh Duggal*
