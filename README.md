@@ -7,6 +7,7 @@ Reading](https://github.com/amsaha/my-reading-list/issues?q=is%3Aissue+is%3Aopen
 
 
 ## 2021 ##
+- [The Body: A Guide for Occupants](https://github.com/amsaha/my-reading-list/issues/47) - *Bill Bryson*
 - [Moonwalking with Einstein](https://github.com/amsaha/my-reading-list/issues/43) - *Joshua Foer*
 - [The Blind Watchmaker](https://github.com/amsaha/my-reading-list/issues/7) - *Richard Dawkins*
 - [Being Mortal](https://github.com/amsaha/my-reading-list/issues/45) - *Atul Gawande*
@@ -32,7 +33,7 @@ Reading](https://github.com/amsaha/my-reading-list/issues?q=is%3Aissue+is%3Aopen
 
 ## 2018 ##
 - [Deep thinking: where machine intelligence ends and human creativity begins](https://github.com/amsaha/my-reading-list/issues/12) - *Gary Kasparov.*
-- [The subtle art of not giving a f*uck](https://github.com/amsaha/my-reading-list/issues/27) - *Mark Manson.*
+- [The subtle art of not giving a f*ck](https://github.com/amsaha/my-reading-list/issues/27) - *Mark Manson.*
 - [Demonetization and Black Money](https://github.com/amsaha/my-reading-list/issues/11) - *C. Rammanohar Reddy.*
 - [The Jeera Packer](https://github.com/amsaha/my-reading-list/issues/16) - *Prashant Yadav.*
 - [Sapiens: A Brief History of Humankind](https://github.com/amsaha/my-reading-list/issues/17) - *Yuval Noah Harari.*
