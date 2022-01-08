@@ -6,7 +6,7 @@ Reading](https://github.com/amsaha/my-reading-list/issues?q=is%3Aissue+is%3Aopen
 # Recently Read Books (post 2016)
 
 ## 2022 ##
-- [Apne Saamne] - *Kuwar Narayan*
+- Apne Saamne (Hindi) - *Kunwar Narayan*
 
 ## 2021 ##
 - [The Body: A Guide for Occupants](https://github.com/amsaha/my-reading-list/issues/47) - *Bill Bryson*
