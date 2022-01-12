@@ -6,6 +6,7 @@ Reading](https://github.com/amsaha/my-reading-list/issues?q=is%3Aissue+is%3Aopen
 # Recently Read Books (post 2016)
 
 ## 2022 ##
+- [The Innovator's Dilemma](https://github.com/amsaha/my-reading-list/issues/39) - *Clayton Christensen*
 - Apne Saamne (Hindi) - *Kunwar Narayan*
 
 ## 2021 ##
