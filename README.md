@@ -6,6 +6,7 @@ Reading](https://github.com/amsaha/my-reading-list/issues?q=is%3Aissue+is%3Aopen
 # Recently Read Books (post 2016)
 
 ## 2022 ##
+- [Wanderers, Kings, Merchants: The Story of India through Its Languages](https://github.com/amsaha/my-reading-list/issues/48) - *Peggy Mohan*
 - [indistractable](https://github.com/amsaha/my-reading-list/issues/52) - *Nir Eyal*
 - [Quiet Leadership](https://github.com/amsaha/my-reading-list/issues/33) - *David Rock*
 - [A Short History of Nearly Everything](https://github.com/amsaha/my-reading-list/issues/49) - *Bill Bryson*
