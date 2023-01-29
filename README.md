@@ -5,6 +5,9 @@ Reading](https://github.com/amsaha/my-reading-list/issues?q=is%3Aissue+is%3Aopen
 
 # Recently Read Books (post 2016)
 
+## 2023 ##
+- [Early Indians: The Story of Our Ancestors and Where We Came From](https://github.com/amsaha/my-reading-list/issues/53) - *Tony Joseph*
+
 ## 2022 ##
 - [Wanderers, Kings, Merchants: The Story of India through Its Languages](https://github.com/amsaha/my-reading-list/issues/48) - *Peggy Mohan*
 - [indistractable](https://github.com/amsaha/my-reading-list/issues/52) - *Nir Eyal*
