@@ -6,6 +6,7 @@ Reading](https://github.com/amsaha/my-reading-list/issues?q=is%3Aissue+is%3Aopen
 # Recently Read Books (post 2016)
 
 ## 2023 ##
+- [The Psychology Of Money](https://github.com/amsaha/my-reading-list/issues/53) - *Morgan Housel*
 - [Early Indians: The Story of Our Ancestors and Where We Came From](https://github.com/amsaha/my-reading-list/issues/53) - *Tony Joseph*
 
 ## 2022 ##
