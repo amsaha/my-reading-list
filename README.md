@@ -6,6 +6,7 @@ Reading](https://github.com/amsaha/my-reading-list/issues?q=is%3Aissue+is%3Aopen
 # Recently Read Books (post 2016)
 
 ## 2023 ##
+- [Ikigai: The Japanese Secret to a Long and Happy Life](https://github.com/amsaha/my-reading-list/issues/56) - *Garcia and Miralles*
 - [Beyond: The Astonishing Story of the First Human to Leave Our Planet and Journey into Space](https://github.com/amsaha/my-reading-list/issues/51) - *Stephen Walker*
 - [The psychology of money](https://github.com/amsaha/my-reading-list/issues/55) - *Morgan Housel*
 - [Early Indians: The Story of Our Ancestors and Where We Came From](https://github.com/amsaha/my-reading-list/issues/53) - *Tony Joseph*
