@@ -5,6 +5,9 @@ Reading](https://github.com/amsaha/my-reading-list/issues?q=is%3Aissue+is%3Aopen
 
 # Recently Read Books (post 2016)
 
+## 2024 ##
+- [Nuclear Verdicts: Defending Justice For All](https://github.com/amsaha/my-reading-list/issues/59) - *Robert F Tyson Jr*
+
 ## 2023 ##
 - [Outlive](https://github.com/amsaha/my-reading-list/issues/57) - *Peter Attia*
 - [Ikigai: The Japanese Secret to a Long and Happy Life](https://github.com/amsaha/my-reading-list/issues/56) - *Garcia and Miralles*
