@@ -6,8 +6,8 @@ Reading](https://github.com/amsaha/my-reading-list/issues?q=is%3Aissue+is%3Aopen
 # Recently Read Books (post 2016)
 
 ## 2024 ##
-- [Why We Sleep](https://github.com/amsaha/my-reading-list/issues/66) - *Matthew
-  Walker*
+- [The Coming Wave](https://github.com/amsaha/my-reading-list/issues/63) - *Mustafa Suleyman*
+- [Why We Sleep](https://github.com/amsaha/my-reading-list/issues/66) - *Matthew Walker*
 - [The Intelligent Investor](https://github.com/amsaha/my-reading-list/issues/62) - *Benjamin Graham*
 - [Nuclear Verdicts: Defending Justice For All](https://github.com/amsaha/my-reading-list/issues/59) - *Robert F Tyson Jr*
 
