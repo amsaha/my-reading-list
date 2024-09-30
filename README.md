@@ -6,6 +6,7 @@ Reading](https://github.com/amsaha/my-reading-list/issues?q=is%3Aissue+is%3Aopen
 # Recently Read Books (post 2016)
 
 ## 2024 ##
+- [What's the Use: The Unreasonable Effectiveness of Mathematics](https://github.com/amsaha/my-reading-list/issues/65) - *Ian Stewart*
 - [The Coming Wave](https://github.com/amsaha/my-reading-list/issues/63) - *Mustafa Suleyman*
 - [Why We Sleep](https://github.com/amsaha/my-reading-list/issues/66) - *Matthew Walker*
 - [The Intelligent Investor](https://github.com/amsaha/my-reading-list/issues/62) - *Benjamin Graham*
