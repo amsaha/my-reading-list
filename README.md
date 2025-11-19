@@ -10,7 +10,8 @@ Reading](https://github.com/amsaha/my-reading-list/issues?q=is%3Aissue+is%3Aopen
 2. [Our Moon has Blood Clots](https://github.com/amsaha/my-reading-list/issues/69) - *Rahul Pandita*
 3. [Super Gut: A Four-Week Pla to Reprogram Your Microbiome, Restore Health, and Lose Weight](https://github.com/amsaha/my-reading-list/issues/70) - *Dr. William Davis*
 4. [Chip War: The Fight for the World's Most Critical Technology](https://github.com/amsaha/my-reading-list/issues/60) - *Chris Miller*
-4. [Beyond a Boundary](https://github.com/amsaha/my-reading-list/issues/71) - *C.L.R. James*
+5. [Beyond a Boundary](https://github.com/amsaha/my-reading-list/issues/71) - *C.L.R. James*
+6. [Scattered Minds](https://github.com/amsaha/my-reading-list/issues/72) - *Gabor Mate*
 
 ## 2024 ##
 1. [Nuclear Verdicts: Defending Justice For All](https://github.com/amsaha/my-reading-list/issues/59) - *Robert F Tyson Jr*
