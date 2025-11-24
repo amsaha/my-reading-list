@@ -13,6 +13,7 @@ Reading](https://github.com/amsaha/my-reading-list/issues?q=is%3Aissue+is%3Aopen
 5. [Beyond a Boundary](https://github.com/amsaha/my-reading-list/issues/71) - *C.L.R. James*
 6. [Scattered Minds](https://github.com/amsaha/my-reading-list/issues/72) - *Gabor Mate*
 7. [Julius Caeser] - *ICSE Xth Grade Syllabus of Jishu*
+8. [A Mathematician's Apology](https://github.com/amsaha/my-reading-list/issues/73) - *G. H. Hardy*
 
 ## 2024 ##
 1. [Nuclear Verdicts: Defending Justice For All](https://github.com/amsaha/my-reading-list/issues/59) - *Robert F Tyson Jr*
