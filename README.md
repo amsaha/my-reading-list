@@ -5,6 +5,8 @@ Reading](https://github.com/amsaha/my-reading-list/issues?q=is%3Aissue+is%3Aopen
 
 # Recently Read Books (post 2016)
 
+## 2026 ##
+
 ## 2025 ##
 1. [Aranyer Adhikar](https://github.com/amsaha/my-reading-list/issues/68) - *Mahasweta Devi*
 2. [Our Moon has Blood Clots](https://github.com/amsaha/my-reading-list/issues/69) - *Rahul Pandita*
