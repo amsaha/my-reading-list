@@ -6,6 +6,7 @@ Reading](https://github.com/amsaha/my-reading-list/issues?q=is%3Aissue+is%3Aopen
 # Recently Read Books (post 2016)
 
 ## 2026 ##
+1. [Guns, Germs, and Streel](https://github.com/amsaha/my-reading-list/issues/74) - *Jared Diamond*
 
 ## 2025 ##
 1. [Aranyer Adhikar](https://github.com/amsaha/my-reading-list/issues/68) - *Mahasweta Devi*
