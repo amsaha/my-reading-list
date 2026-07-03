@@ -9,6 +9,7 @@ Reading](https://github.com/amsaha/my-reading-list/issues?q=is%3Aissue+is%3Aopen
 1. [Guns, Germs, and Streel](https://github.com/amsaha/my-reading-list/issues/74) - *Jared Diamond*
 2. [Breakneck: China's Quest to Engineer the Future](https://github.com/amsaha/my-reading-list/issues/75) - *Dan Wang*
 3. [The Theory of Everything](https://github.com/amsaha/my-reading-list/issues/76) - *Stephen Hawking*
+4. [Six Easy Pieces](https://github.com/amsaha/my-reading-list/issues/77) - *Richard Feynman*
 
 ## 2025 ##
 1. [Aranyer Adhikar](https://github.com/amsaha/my-reading-list/issues/68) - *Mahasweta Devi*
